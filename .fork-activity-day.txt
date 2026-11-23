@@ -1,1 +1,2 @@
 activity-day:20780 claimed nexu-io/open-design dce42e6f7691
+activity-day:20780 done nexu-io/open-design eb3aed4a04d7
